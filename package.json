@@ -1,7 +1,7 @@
 {
-  "name": "mongochat",
+  "name": "MyMongoCom",
   "version": "1.0.0",
-  "description": "Simple chat app using sockets",
+  "description": "chat using sockets",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"

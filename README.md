@@ -1,13 +1,13 @@
 # MongoChat
 
-Simple chat app that uses MongoDB and Socket.io
+##MongoChat which uses MongoDB and Socket.io
 
 ### Version
 1.0.0
 
 ## Install Dependencies
 ```bash
-npm install 
+npm install
 ```
 
 ## Run Server
